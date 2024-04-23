@@ -1,0 +1,4 @@
+numpy
+virtual env 
+adafruit
+opencv 
